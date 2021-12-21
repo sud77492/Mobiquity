@@ -1,0 +1,6 @@
+module Pods_mobiquityNew_mobiquityNewTests {
+  umbrella header "Pods-mobiquityNew-mobiquityNewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
